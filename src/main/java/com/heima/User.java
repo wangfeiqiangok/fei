@@ -9,5 +9,6 @@ public class User {
     private String username;//用户名
     private int age;//年龄
     private String password;//密码
+    private String adress;
 
 }
