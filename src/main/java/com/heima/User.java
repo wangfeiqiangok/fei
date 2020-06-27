@@ -11,7 +11,7 @@ public class User {
     private String password;
     private String address;
     private String telephone;
-    private int kjj;
+    private int nhh;
 
 
 }
